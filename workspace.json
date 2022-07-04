@@ -3,6 +3,10 @@
   "version": 2,
   "projects": {
     "bikes": "apps/bikes",
-    "bikes-e2e": "apps/bikes-e2e"
+    "bikes-e2e": "apps/bikes-e2e",
+    "blog": "apps/blog",
+    "blog-e2e": "apps/blog-e2e",
+    "header": "libs/header",
+    "header-e2e": "apps/header-e2e"
   }
 }
